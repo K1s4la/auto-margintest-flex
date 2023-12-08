@@ -2,3 +2,26 @@ body {
     background:#7db4f0;
     padding:0px;
 }
+nav{
+border-bottom:1px solid #fff;
+padding:12px;
+
+}
+ul{
+    list-style-type:none; /* list tyle type removes the bullet point from the list!!!!!!!1!!!!!!!1!!!!!!!*/
+    align-items:baseline;
+    padding:0px; margin:0px;
+}
+ul a {
+    color:inherit; 
+    text-decoration:none; /* text decoration removes blue hyperlink under line links are still clickable thought*/
+    font-size: .875rem;
+}
+.logo a {
+    font-size: 1.125rem;
+    font-weight: 500;
+    
+}
+.logo{
+    margin-right:auto;
+}
